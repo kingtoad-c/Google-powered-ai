@@ -47,7 +47,7 @@ We welcome contributions! If you'd like to enhance the functionality of this cha
 
 ## 📝 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License** For educational use.
 
 ## 🙌 Acknowledgements
 
